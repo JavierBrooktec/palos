@@ -1,0 +1,9 @@
+.fila {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.board {
+  padding: 50px;
+}
